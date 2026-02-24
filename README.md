@@ -1,4 +1,5 @@
 TITLE: FACIAL EMOJI GENERATION BASED ON FACE EMOTIONS:
+
 Project descrption:
 
 Facial emoji generation based on emotions is the process of creating digital face icons that visually represent different human emotions such as happiness, sadness, anger, surprise, fear, and love. 
